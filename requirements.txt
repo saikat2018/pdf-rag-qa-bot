@@ -12,3 +12,4 @@ langchain-unstructured
 langchain-chroma
 langchain-groq
 langchain-core
+opencv-python
