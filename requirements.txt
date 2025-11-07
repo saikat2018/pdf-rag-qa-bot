@@ -1,7 +1,7 @@
 python-dotenv
 streamlit
 sentence-transformers
-numpy<2.0
+numpy
 langchain-community
 langchain
 langchain-huggingface
@@ -13,6 +13,6 @@ langchain-chroma
 langchain-groq
 langchain-core
 opencv-python
-ml_dtypes==0.5.3
-onnx==1.19.1
-onnxruntime==1.19.2
+ml_dtypes
+onnx
+onnxruntime
