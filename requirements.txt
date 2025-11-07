@@ -13,6 +13,6 @@ langchain-chroma
 langchain-groq
 langchain-core
 opencv-python
-onnx
-onnxruntime
-ml_dtypes
+ml_dtypes==0.5.3
+onnx==1.19.1
+onnxruntime==1.19.2
